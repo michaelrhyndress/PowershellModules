@@ -1,3 +1,5 @@
+# Module Manifest
+
 Module      : Compare-HashTable<br />
 Version     : 1.0<br />
 Description : Computes differences between two Hashtables. Results are returned as an array of objects<br />
